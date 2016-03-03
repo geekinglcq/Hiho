@@ -31,6 +31,9 @@
 .DS_Store
 .DS_Store?
 ._*
+
+#Special files#
+trial.cpp
 .Spotlight-V100
 .Trashes
 ehthumbs.db

@@ -1,4 +1,4 @@
-// https://www.zybuluo.com/mdeditor#300607 
+// https://www.zybuluo.com/lunar/note/300607
 #include<iostream>
 #include<cstring>
 #include<queue>
