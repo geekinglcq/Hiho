@@ -9,3 +9,6 @@
 1. [迷宫](https://www.zybuluo.com/lunar/note/301812)
 2. [01背包](https://www.zybuluo.com/lunar/note/302701 )
 3. [完全背包](https://www.zybuluo.com/lunar/note/303320)
+
+##分治
+1. [后序遍历](http://hihocoder.com/problemset/problem/1049)

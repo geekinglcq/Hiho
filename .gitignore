@@ -38,3 +38,8 @@ trial.cpp
 .Trashes
 ehthumbs.db
 Thumbs.db
+.idea/vcs.xml
+.idea/.name
+*.xml
+.idea/Hiho.iml
+main.cpp
