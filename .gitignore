@@ -43,3 +43,4 @@ Thumbs.db
 *.xml
 .idea/Hiho.iml
 main.cpp
+CMakeLists.txt
