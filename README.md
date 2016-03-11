@@ -12,3 +12,6 @@
 
 ##分治
 1. [后序遍历](http://hihocoder.com/problemset/problem/1049)
+
+##树
+1. [树的最长路](https://www.zybuluo.com/lunar/note/310297)
