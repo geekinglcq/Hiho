@@ -18,3 +18,6 @@
 1. [树的最长路_11](https://www.zybuluo.com/lunar/note/310297)
 2. [刷油漆_12](https://www.zybuluo.com/lunar/note/311030)
 3. [最近公共祖先_13](https://www.zybuluo.com/lunar/note/313171)
+
+##并查集
+1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
