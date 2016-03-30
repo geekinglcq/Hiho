@@ -55,7 +55,7 @@ int main(){
 			map<string,int>::iterator lIt2;
 			lIt2 = peopleList.find(yi);
 			int x,y;
-			if(lIt1 == peopleList.end()) {
+			if(lIt1 == peopleList.end()) { 
 				peopleList[jia] = count;
 				x = count++;
 				cla[x] = x;
