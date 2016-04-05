@@ -23,6 +23,7 @@
 4. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)
 5. [最近公共祖先3在线算法_17](https://www.zybuluo.com/lunar/note/332632)
 6. [RMQ-线段树_18_19](https://www.zybuluo.com/lunar/note/334565)
+7. [RMQ-线段树区间修改_20](https://www.zybuluo.com/lunar/note/335678)
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
 2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)

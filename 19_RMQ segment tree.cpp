@@ -5,8 +5,8 @@
 
 using namespace std;
 
-const int MAX=1000005;
-std::vector<int> items;
+const int MAX=1000050;
+int items[MAX];
 int tree[2*MAX];
 
 int min(int a,int b){
@@ -51,10 +51,10 @@ int query(int x,int y,int l,int r,int t){
 int main(){
 	int n,q,f,t,a,b;
 	scanf("%d",&n);
-	items.push_back(-1);
-	for(int i=0;i<n;i++) {
+	
+	for(int i=1;i<=n;i++) {
 		read(t);
-		items.push_back(t);
+		items[i] = t;
 	}	
 	buildTree(1,n,1);
 	scanf("%d",&q);
