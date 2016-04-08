@@ -12,10 +12,12 @@
 4. [树的最长路_11](https://www.zybuluo.com/lunar/note/310297)
 5. [刷油漆_12](https://www.zybuluo.com/lunar/note/311030)
 6. [RMQ-ST_16](https://www.zybuluo.com/lunar/note/332632)
-7. [最近公共祖先3在线算法_17](https://www.zybuluo.com/lunar/note/332632)
+7. [最近公共祖先3在线算法_17](https://www.zybuluo.com/lunar/note/332632)  
+
 ##分治
 1. [后序遍历_10](http://hihocoder.com/problemset/problem/1049)
-2. [RMQ-ST_16](https://www.zybuluo.com/lunar/note/332632)
+2. [RMQ-ST_16](https://www.zybuluo.com/lunar/note/332632)  
+
 ##树
 1. [树的最长路_11](https://www.zybuluo.com/lunar/note/310297)
 2. [刷油漆_12](https://www.zybuluo.com/lunar/note/311030)
@@ -25,7 +27,8 @@
 6. [RMQ-线段树_18_19](https://www.zybuluo.com/lunar/note/334565)
 7. [RMQ-线段树区间修改_20](https://www.zybuluo.com/lunar/note/335678)
 8. [线段树_离散化_21](https://www.zybuluo.com/lunar/note/336782)
-9. [线段树_多种操作_更复杂的房屋买卖姿势](https://www.zybuluo.com/lunar/note/338887)
+9. [线段树_多种操作_更复杂的房屋买卖姿势](https://www.zybuluo.com/lunar/note/338887)  
+
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
 2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)
