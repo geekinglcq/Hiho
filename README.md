@@ -25,6 +25,7 @@
 6. [RMQ-线段树_18_19](https://www.zybuluo.com/lunar/note/334565)
 7. [RMQ-线段树区间修改_20](https://www.zybuluo.com/lunar/note/335678)
 8. [线段树_离散化_21](https://www.zybuluo.com/lunar/note/336782)
+9. [线段树_多种操作_更复杂的房屋买卖姿势](https://www.zybuluo.com/lunar/note/338887)
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
 2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)
