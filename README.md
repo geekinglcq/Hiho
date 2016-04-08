@@ -31,4 +31,6 @@
 
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
-2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)
+2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)  
+##数论
+1. [MR素数测试](https://www.zybuluo.com/lunar/note/338927)
