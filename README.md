@@ -13,7 +13,8 @@
 5. [刷油漆_12](https://www.zybuluo.com/lunar/note/311030)
 6. [RMQ-ST_16](https://www.zybuluo.com/lunar/note/332632)
 7. [最近公共祖先3在线算法_17](https://www.zybuluo.com/lunar/note/332632)  
-
+8. [最短路Dij_23](https://www.zybuluo.com/lunar/note/340458)
+9. [最短路Floyd_24](https://www.zybuluo.com/lunar/note/340458)
 ##分治
 1. [后序遍历_10](http://hihocoder.com/problemset/problem/1049)
 2. [RMQ-ST_16](https://www.zybuluo.com/lunar/note/332632)  
