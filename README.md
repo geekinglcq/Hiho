@@ -35,6 +35,8 @@
 1. [最短路Dij_23](https://www.zybuluo.com/lunar/note/340458)
 2. [最短路Floyd_24](https://www.zybuluo.com/lunar/note/340458)
 3. [最短路SPFA_25](https://www.zybuluo.com/lunar/note/340458)  
+4. [最小生成树_Prim_26](https://www.zybuluo.com/lunar/note/343000)  
+5. [最小生成树_Kruscal_27](https://www.zybuluo.com/lunar/note/343000)
 
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
