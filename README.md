@@ -29,7 +29,7 @@
 7. [RMQ-线段树区间修改_20](https://www.zybuluo.com/lunar/note/335678)
 8. [线段树_离散化_21](https://www.zybuluo.com/lunar/note/336782)
 9. [线段树_多种操作_更复杂的房屋买卖姿势](https://www.zybuluo.com/lunar/note/338887)    
-
+10. [堆](https://www.zybuluo.com/lunar/note/344261)
 
 ##图
 1. [最短路Dij_23](https://www.zybuluo.com/lunar/note/340458)
