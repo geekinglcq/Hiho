@@ -37,9 +37,11 @@
 3. [最短路SPFA_25](https://www.zybuluo.com/lunar/note/340458)  
 4. [最小生成树_Prim_26](https://www.zybuluo.com/lunar/note/343000)  
 5. [最小生成树_Kruscal_27](https://www.zybuluo.com/lunar/note/343000)
+6. 堆优化的Prim_28
 
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
 2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)  
 ##数论
-1. [MR素数测试](https://www.zybuluo.com/lunar/note/338927)
+1. [MR素数测试_92](https://www.zybuluo.com/lunar/note/338927)
+2. [Eular素数筛法_93](https://www.zybuluo.com/lunar/note/345665)
