@@ -1,23 +1,25 @@
 #include<iostream>
 #include<cstdlib>
 #include<ctime> 
+#include<fstream>
 using namespace std;
 int map[15][15];
+	int a[200];
+	int x[200];
 int main(){
+	fstream out ("ss.txt",ios::out);
 	srand((unsigned)time(0));
-	int n = 4;
-	cout << n <<endl;
-	for(int i =1;i<=n;i++){
-		for(int j =1;j<=i;j++){
-			if(i==j) map[i][j] = 0;
-			else map[i][j] = rand()%20;
-			map[j][i] = map[i][j];
-		}
+	int n = 105;
+	int m =2;
+	while(m--){
+	
+	for(int i=1;i<=n;i++) x[i] = rand()%2;
+	x[0] =0;x[n+1]=0;
+	for(int i=1;i<=n;i++) a[i] = x[i-1] + x[i] + x[i+1];
+	out << n <<endl;
+	for(int i=1;i<=n;i++) out << a[i] <<" ";
+	out <<endl;
 	}
-	for(int i = 1 ;i<=n;i++){
-		for(int j=1;j<=n;j++) cout <<map[i][j]<<" ";
-		cout<<endl;
-		
-	}
+	out.close();
 	return 0;
 }
