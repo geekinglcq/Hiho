@@ -37,8 +37,8 @@
 3. [最短路SPFA_25](https://www.zybuluo.com/lunar/note/340458)  
 4. [最小生成树_Prim_26](https://www.zybuluo.com/lunar/note/343000)  
 5. [最小生成树_Kruscal_27](https://www.zybuluo.com/lunar/note/343000)
-6. 堆优化的Prim_28
-
+6. [堆优化的Prim_28](https://www.zybuluo.com/lunar/note/344261)
+7. [二分图判定_34](https://www.zybuluo.com/lunar/note/428349)
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
 2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)  
