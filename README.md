@@ -14,10 +14,15 @@
 6. [RMQ-ST_16](https://www.zybuluo.com/lunar/note/332632)
 7. [最近公共祖先3在线算法_17](https://www.zybuluo.com/lunar/note/332632)  
 8. [最短路Dij_23](https://www.zybuluo.com/lunar/note/340458)
-9. [最短路Floyd_24](https://www.zybuluo.com/lunar/note/340458)
+9. [最短路Floyd_24](https://www.zybuluo.com/lunar/note/340458)  
+
 ##分治
 1. [后序遍历_10](http://hihocoder.com/problemset/problem/1049)
 2. [RMQ-ST_16](https://www.zybuluo.com/lunar/note/332632)  
+3. [二分查找_36]()  
+4. [第k大数_37]()  
+5. [二分答案_38]()  
+6. [逆序对_39]()
 
 ##树
 1. [树的最长路_11](https://www.zybuluo.com/lunar/note/310297)
@@ -41,7 +46,8 @@
 7. [二分图判定_34](https://www.zybuluo.com/lunar/note/428349)
 ##并查集
 1. [无间道之并查集_14](https://www.zybuluo.com/lunar/note/314370)
-2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)  
+2. [最近公共祖先2离线算法_14](https://www.zybuluo.com/lunar/note/330589)    
+
 ##数论
 1. [MR素数测试_92](https://www.zybuluo.com/lunar/note/338927)
 2. [Eular素数筛法_93](https://www.zybuluo.com/lunar/note/345665)
